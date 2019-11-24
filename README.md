@@ -1,7 +1,7 @@
 # AAQAD 17,000+ Arabic Questions &amp; Answers dataset
-    Adel Atef, Bassam Mattar, Sandra Sherif, Eman Elrefai, Marwan Torki
-                         Alexandria University
-                               Egypt
+   Adel Atef, Bassam Mattar, Sandra Sherif, Eman Elrefai, Marwan Torki
+                        \Alexandria University
+                              Egypt
     {eng-adel.meleka1520, eng-bassam.mattar1520, mtorki}@alexu.edu.eg
 ## Introduction
 We present the Alexu Arabic Question-Answer dataset (AAQAD), a new Arabic reading comprehension dataset consisting
