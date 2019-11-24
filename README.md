@@ -1,6 +1,16 @@
 # AAQAD 17,000+ Arabic Questions &amp; Answers dataset
 One Paragraph of project description goes here
 
+## Introduction
+We present the Alexu Arabic Question-Answer dataset (AAQAD), a new Arabic reading comprehension dataset consisting
+of 17,000+ questions collected from a set of Wikipedia articles where the answer of the question is an extracted segment of text from the corresponding paragraph.
+We present AAQAD Automatic Generator System, a Fully Automated data collector for our AAQAD, we’ll discuss its algorithm later.
+Also, this system is a Language Generic: The tool can be used to collect a specific dataset to any desired language from Wikipedia
+articles just by a parameter modification to our tool. Our Automatic Generator algorithm is based on SQuAD, where we collect our
+Arabic dataset from the same Wikipedia articles as SQuAD .
+We applied the same models as SQuAD on our AAQAD : BERT and BIDAF model with 37 , 32 F1 respectively and applied cross
+lingual BERT model.
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
