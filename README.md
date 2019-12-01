@@ -29,4 +29,4 @@ To reprocuce results given by the paper, you just need to open any required .ipy
 * [Adel Atef](https://github.com/adelmeleka)
 * [Bassam Mattar](https://github.com/BassamMattar)
 * [Sandra Sherif](https://github.com/SandraSherif)
-* [Eman Lotfy](https://github.com/emanlotfy52)
+* [Eman Elrefai](https://github.com/emanlotfy52)
