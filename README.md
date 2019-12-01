@@ -18,9 +18,9 @@ Automated dataset collection, Arabic Machine Comprehension, Question Answering S
 
 ## Project Description
 The project is divided into 2 main phases:
-### [Data Collection](DataCollection/)
+### [Data Collection](~/DataCollection/)
 
-### [Baseline Models](Baselines/)
+### [Baseline Models](~/Baselines/)
 
 
 ## Getting Started & Prerequisites
