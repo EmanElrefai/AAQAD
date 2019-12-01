@@ -16,7 +16,7 @@ Automated dataset collection, Arabic Machine Comprehension, Question Answering S
 
 ### [Read the Full-Text Paper](https://pages.github.com/)
 
-## Getting Started & Prerequisites
+## Project description
 To reprocuce results given by the paper, you just need to open any required .ipynb in colab and run the cell in order from top to bottom to install requirements.
 
 ## Getting Started & Prerequisites
@@ -27,3 +27,4 @@ To reprocuce results given by the paper, you just need to open any required .ipy
 * [Bassam Mattar](https://github.com/BassamMattar)
 * [Sandra Sherif](https://github.com/SandraSherif)
 * [Eman Lotfy](https://github.com/emanlotfy52)
+* [Marwan Torki](link)
