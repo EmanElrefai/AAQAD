@@ -11,18 +11,18 @@ set of Arabic Wikipedia articles for extractive question answering task. The cho
 SQuAD dataset. We provide evaluation results on the AAQAD dataset using two state-of-the-art models for machine-reading question
 answering problems Namely, BERT and BIDAF models which result in 0.37 and 0.32 F-1 measure on AAQAD dataset.
 
-### Keywords
+## Keywords
 Automated dataset collection, Arabic Machine Comprehension, Question Answering System, Arabic Machine Reading for Question Answering (A-MRQA), Arabic NLP, Answer Extraction.
 
-### [Read the Full-Text Paper](https://pages.github.com/)
+## [Read the Full-Text Paper](https://pages.github.com/)
 
-### Getting Started & Prerequisites
+## Getting Started & Prerequisites
 To reprocuce results given by the paper, you just need to open any required .ipynb in colab and run the cell in order from top to bottom to install requirements.
 
-### Getting Started & Prerequisites
+## Getting Started & Prerequisites
 To reprocuce results given by the paper, you just need to open any required .ipynb in colab and run the cell in order from top to bottom to install requirements.
 
-### Authors
+## Authors
 * [Adel Atef](https://github.com/adelmeleka)
 * [Bassam Mattar](https://github.com/BassamMattar)
 * [Sandra Sherif](https://github.com/SandraSherif)
