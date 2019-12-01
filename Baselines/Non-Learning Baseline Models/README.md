@@ -2,11 +2,11 @@ We  evaluate  non-learning  baseline  readers  on  AAQAD. Baseline readers as do
 
 # Non-Learning Baseline Models
 
-- TF-IDFreader based on 4-gram features.
+- TF-IDF reader based on 4-gram features.
 
 - Embedding fastText.
 
-- Sliding Window Distancebased reader.
+- Sliding Window Distance based reader.
 
 - Random Guess.
 
