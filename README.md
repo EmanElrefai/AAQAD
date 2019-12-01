@@ -16,8 +16,12 @@ Automated dataset collection, Arabic Machine Comprehension, Question Answering S
 
 ### [Read the Full-Text Paper](https://pages.github.com/)
 
-## Project description
-To reprocuce results given by the paper, you just need to open any required .ipynb in colab and run the cell in order from top to bottom to install requirements.
+## Project Description
+The project is divided into 2 main phases:
+# Data Collection[DataCollection/]
+
+# Baseline Models[Baselines/]
+
 
 ## Getting Started & Prerequisites
 To reprocuce results given by the paper, you just need to open any required .ipynb in colab and run the cell in order from top to bottom to install requirements.
