@@ -14,7 +14,7 @@ answering problems Namely, BERT and BIDAF models which result in 0.37 and 0.32 F
 ## Keywords
 Automated dataset collection, Arabic Machine Comprehension, Question Answering System, Arabic Machine Reading for Question Answering (A-MRQA), Arabic NLP, Answer Extraction.
 
-## [Read the Full-Text Paper](https://pages.github.com/)
+### [Read the Full-Text Paper](https://pages.github.com/)
 
 ## Getting Started & Prerequisites
 To reprocuce results given by the paper, you just need to open any required .ipynb in colab and run the cell in order from top to bottom to install requirements.
