@@ -18,11 +18,10 @@ Automated dataset collection, Arabic Machine Comprehension, Question Answering S
 
 ## Project Description
 The project is divided into 2 main phases:
-### [Data Collection](~/DataCollection/)
-
-### [Baseline Models](~/Baselines/)
-
-
+### Data Collection
+We implemented an automatic dataset generator system capapble of generating arabic dataset with question-answer pairs.
+### Baseline Models
+We plugged our dataset to known baseline models to evaluate some interesting results.
 ## Getting Started & Prerequisites
 To reprocuce results given by the paper, you just need to open any required .ipynb in colab and run the cell in order from top to bottom to install requirements.
 
@@ -31,4 +30,3 @@ To reprocuce results given by the paper, you just need to open any required .ipy
 * [Bassam Mattar](https://github.com/BassamMattar)
 * [Sandra Sherif](https://github.com/SandraSherif)
 * [Eman Lotfy](https://github.com/emanlotfy52)
-* [Marwan Torki](link)
