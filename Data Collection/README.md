@@ -10,6 +10,6 @@ That's make our tool as language-genereatc similarity tool by changing only the 
 To reprocuce results given by the paper, you just need to open the given .ipynb in colab and run the cell in order from top
 to bottom to install requirements.
 
-## Author
+## Authors
 * [Adel Atef](https://github.com/adelmeleka)
 * [Sandra Sherif](https://github.com/SandraSherif)
