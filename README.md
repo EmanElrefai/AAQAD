@@ -14,7 +14,7 @@ answering problems Namely, BERT and BIDAF models which result in 0.37 and 0.32 F
 ## Keywords
 Automated dataset collection, Arabic Machine Comprehension, Question Answering System, Arabic Machine Reading for Question Answering (A-MRQA), Arabic NLP, Answer Extraction.
 
-### [Read the Full-Text Paper](https://pages.github.com/)
+<!-- ### [Read the Full-Text Paper](https://pages.github.com/) -->
 
 ## Project Description
 The project is divided into 2 main phases:
